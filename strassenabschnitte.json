@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.68424687456813,
+            50.575066604296
+          ],
+          [
+            8.68515125168376,
+            50.5757022258638
+          ],
+          [
+            8.68716955592141,
+            50.5744659952892
+          ],
+          [
+            8.68867777068959,
+            50.5736867680999
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 678.74788225623524
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.70972798717471,
+            50.58846113164
+          ],
+          [
+            8.72067890854707,
+            50.5905343597651
+          ],
+          [
+            8.72124571159893,
+            50.5906021327162
+          ],
+          [
+            8.72215655255918,
+            50.5906465780904
+          ],
+          [
+            8.72441939421786,
+            50.5906928113554
+          ],
+          [
+            8.73023086242724,
+            50.5916105980515
+          ],
+          [
+            8.73121525215109,
+            50.5917103786722
+          ],
+          [
+            8.73302423257941,
+            50.5918689475351
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 2670.9274311052004
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.70724105253399,
+            50.6057834283196
+          ],
+          [
+            8.70627545728849,
+            50.6056949101608
+          ],
+          [
+            8.70535814180528,
+            50.6053714770106
+          ],
+          [
+            8.70426380052705,
+            50.604693962469
+          ],
+          [
+            8.70357179060111,
+            50.6044658523629
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 482.4087993131966
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.66871518969645,
+            50.5785107572178
+          ],
+          [
+            8.66950489463998,
+            50.5781090207473
+          ],
+          [
+            8.66981180196097,
+            50.5779593665329
+          ],
+          [
+            8.67028978593138,
+            50.5777010746457
+          ],
+          [
+            8.67099032722423,
+            50.5773721906326
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 322.56186379983683
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.69092858766884,
+            50.5712801472595
+          ],
+          [
+            8.69058885830311,
+            50.5710523910196
+          ],
+          [
+            8.68990939957167,
+            50.5707071590338
+          ],
+          [
+            8.689256363886,
+            50.5704194635896
+          ],
+          [
+            8.68703679660051,
+            50.5694964285371
+          ],
+          [
+            8.68647813073205,
+            50.569297434742
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 606.95945021063926
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.65873732112186,
+            50.5780380054712
+          ],
+          [
+            8.66075682461041,
+            50.5772349760139
+          ],
+          [
+            8.66208177048421,
+            50.5766692515707
+          ],
+          [
+            8.66307076081478,
+            50.5762425569249
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 576.0757799041213
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 228,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.67414277516932,
+            50.5958667639352
+          ],
+          [
+            8.67796224017918,
+            50.5949745779065
+          ],
+          [
+            8.6782948342266,
+            50.5949813883899
+          ],
+          [
+            8.67908876796965,
+            50.5947906899213
+          ],
+          [
+            8.6796386207536,
+            50.5946715029457
+          ],
+          [
+            8.67996853240116,
+            50.5945812611266
+          ],
+          [
+            8.68058544079797,
+            50.5944229120401
+          ],
+          [
+            8.68107092063135,
+            50.5943054271448
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 821.17449333230479
+      }
+    }
+  ]
+}
