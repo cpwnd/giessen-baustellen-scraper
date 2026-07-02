@@ -1,0 +1,23 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v4
+    - name: Fetch latest data
+      run: |-
+        curl -v -X 'GET' --connect-timeout 30 --max-time 30 -A "Mozilla/5.0 (compatible; Giessen.de-Watcher/1.0; +github.com/cpwnd)" 'https://services3.arcgis.com/TlxRcF9XEo8GG6QU/arcgis/rest/services/Baustellen_WFL1/FeatureServer/1/query?where=1=1&outFields=*&f=geojson&resultRecordCount=1000&resultOffset=0' -o hinweisschilder.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
