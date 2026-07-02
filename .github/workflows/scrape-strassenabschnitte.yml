@@ -3,6 +3,8 @@ name: Scrape latest data
 on:
   push:
   workflow_dispatch:
+  schedule:
+    - cron:  '8 8,12,18 * * *'  
 
 permissions:
   contents: write  
