@@ -294,6 +294,48 @@
         "Sonstiges": null,
         "Info": null
       }
+    },
+    {
+      "type": "Feature",
+      "id": 685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68048350755111,
+          50.5828499089733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 685,
+        "Sperrung": "Vollsperrung",
+        "Oertlichkeit": "Grünberger Straße",
+        "Massnahme": "Deckensanierung",
+        "Von": 1783296000000,
+        "Bis": 1785283200000,
+        "Sonstiges": null,
+        "Info": "https://www.giessen.de/index.php?La=1&object=tx,2874.76870.1&kuo=2&sub=0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67197630999522,
+          50.59009739155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 686,
+        "Sperrung": "Vollsperrung",
+        "Oertlichkeit": "Steinstraße",
+        "Massnahme": "Herstellung von Fernwärme-Hausanschluss",
+        "Von": 1783296000000,
+        "Bis": 1785456000000,
+        "Sonstiges": null,
+        "Info": null
+      }
     }
   ]
 }
