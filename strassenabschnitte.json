@@ -300,6 +300,34 @@
         "Link": null,
         "Shape__Length": 821.17449333230479
       }
+    },
+    {
+      "type": "Feature",
+      "id": 229,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.67151398664437,
+            50.5895924762735
+          ],
+          [
+            8.67236958703671,
+            50.5905268903217
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 229,
+        "Oertlichkeit": null,
+        "Massnahme": null,
+        "Von": null,
+        "Bis": null,
+        "Sperrung": null,
+        "Sonstiges": null,
+        "Link": null,
+        "Shape__Length": 189.51605547978519
+      }
     }
   ]
 }
