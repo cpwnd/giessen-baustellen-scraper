@@ -276,27 +276,6 @@
     },
     {
       "type": "Feature",
-      "id": 683,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.67773157044484,
-          50.5950120363147
-        ]
-      },
-      "properties": {
-        "OBJECTID": 683,
-        "Sperrung": "Vollsperrung",
-        "Oertlichkeit": "Sudetenlandstraße",
-        "Massnahme": "Deckensanierung",
-        "Von": 1782740849650,
-        "Bis": 1783432067400,
-        "Sonstiges": null,
-        "Info": null
-      }
-    },
-    {
-      "type": "Feature",
       "id": 685,
       "geometry": {
         "type": "Point",
