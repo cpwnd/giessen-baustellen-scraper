@@ -248,7 +248,7 @@
         "Oertlichkeit": "Sandfeld 8",
         "Massnahme": "Tiefbauarbeiten",
         "Von": 1783296000000,
-        "Bis": 1784246400000,
+        "Bis": 1785456000000,
         "Sonstiges": null,
         "Info": null
       }
@@ -312,6 +312,48 @@
         "Massnahme": "Herstellung von Fernwärme-Hausanschluss",
         "Von": 1783296000000,
         "Bis": 1785456000000,
+        "Sonstiges": null,
+        "Info": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66854803161663,
+          50.5879055205212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 687,
+        "Sperrung": "Vollsperrung",
+        "Oertlichkeit": "Bootshausstraße (in Höhe des Senirorenheims)",
+        "Massnahme": "Erneuerung der Bahnhofsaufzüge",
+        "Von": 1784721440000,
+        "Bis": 1785239846000,
+        "Sonstiges": "Fußverkehr frei – Zufahrt von der anderen Seite über Sudetenlandstraße möglich",
+        "Info": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67305280165795,
+          50.5777516324604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 688,
+        "Sperrung": "Vollsperrung",
+        "Oertlichkeit": "Liebigstraße (zwischen Ludwigstraße und Ebelstraße)",
+        "Massnahme": "Fernwärmeverlegung",
+        "Von": 1758801551000,
+        "Bis": 1788177560000,
         "Sonstiges": null,
         "Info": null
       }
